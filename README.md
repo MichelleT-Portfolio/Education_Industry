@@ -36,7 +36,7 @@ When multiple elbow points are observed in the elbow curve, we determine the opt
 - High tuition fees
 - **Ideal for** top corporates seeking the best candidates for recruitment
 
-📂 [Project Notebook]
+📂 [Project Notebook](https://github.com/MichelleT-Portfolio/Education_Industry/blob/main/EngineeringCollege_StudentClustering.ipynb)
 
 ## 🔮 Conclusion
 This project provides a data-driven approach to classifying engineering colleges, helping students, institutions, and recruiters make informed decisions. Further refinement of clustering techniques and feature selection can enhance the insights drawn from this analysis.
